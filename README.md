@@ -36,4 +36,4 @@ O app estará disponível no seu browser pelo endereço http://localhost:3333 as
 
 ## Authors
 
-- [@guiihdourado](https://github.com/guiihdourado)
+- [@lEduFranco](https://github.com/lEduFranco)
